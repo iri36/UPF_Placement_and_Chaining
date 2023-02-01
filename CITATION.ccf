@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Leyva-Pupo"
+    given-names: "Irian"
+    orcid: "https://orcid.org/0000-0001-6356-5840"
+  - family-names: "Cervelló-Pastor"
+    given-names: "Cristina"
+    orcid: "https://orcid.org/0000-0002-8056-0774"
+  title: "Efficient solutions to the placement and chaining problem of User Plane Functions in 5G networkse"
+  doi: "https://doi.org/10.1016/j.jnca.2021.103269"
+  journal: "Journal of Network and Computer Applications"
+  month: 1
+  issue: 1
+  volume: 197
+  year: 2022

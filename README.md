@@ -6,9 +6,9 @@ The solutions take into account several aspects of the system such as UPF-specif
 Article link: https://www.sciencedirect.com/science/article/pii/S1084804521002654
 
 This repository contains three folders (one for each solution):
-		- ILP: Code of the exact olution.
-		- DP-UPC: Heuristic algorithm
-		- SA-UPC: SA-based metaheuristic
+- ILP: Code of the exact olution.
+- DP-UPC: Heuristic algorithm
+- SA-UPC: SA-based metaheuristic
 		
 
 # References:

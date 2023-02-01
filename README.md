@@ -10,6 +10,7 @@ This repository contains three folders (one for each solution):
 - DP-UPC: Heuristic algorithm
 - SA-UPC: SA-based metaheuristic
 		
+If you use this software in your work, please cite it as [1] (see CITATION.cff). 
 
 # References:
 [1] Leyva-Pupo I, Cervelló-Pastor C. Efficient solutions to the placement and chaining problem of User Plane Functions in 5G networks. Journal of Network and Computer Applications. 2022 Jan 1;197:103269.

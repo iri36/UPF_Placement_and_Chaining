@@ -13,4 +13,4 @@ This repository contains three folders (one for each solution):
 If you use this software in your work, please cite it as [1] (see CITATION.cff). 
 
 # References:
-[1] Leyva-Pupo I, Cervelló-Pastor C. Efficient solutions to the placement and chaining problem of User Plane Functions in 5G networks. Journal of Network and Computer Applications. 2022 Jan 1;197:103269.
+[1] Leyva-Pupo I, Cervelló-Pastor C. "Efficient solutions to the placement and chaining problem of User Plane Functions in 5G networks," *Journal of Network and Computer Applications*, pp. 1-16, 2022 Jan 1;197:103269.
